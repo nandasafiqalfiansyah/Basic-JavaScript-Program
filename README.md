@@ -1,45 +1,45 @@
-# Program JavaScript Dasar
+# Basic JavaScript Program
 
-Ini adalah program sederhana JavaScript yang berisi contoh-contoh dasar dalam pemrograman JavaScript. Program ini bertujuan untuk memberikan pemahaman dasar tentang variabel, tipe data, operator, percabangan, perulangan, fungsi, dan event handling dalam JavaScript.
+This is a simple JavaScript program that contains fundamental examples of JavaScript programming. The program aims to provide a basic understanding of variables, data types, operators, conditionals, loops, functions, and event handling in JavaScript.
 
-## Daftar Isi
+## Table of Contents
 
-- [Variabel](#variabel)
-- [Tipe Data](#tipe-data)
-- [Operator](#operator)
-- [Percabangan](#percabangan)
-- [Perulangan](#perulangan)
-- [Fungsi](#fungsi)
+- [Variables](#variables)
+- [Data Types](#data-types)
+- [Operators](#operators)
+- [Conditionals](#conditionals)
+- [Loops](#loops)
+- [Functions](#functions)
 - [Event Handling](#event-handling)
 
-## Variabel
+## Variables
 
-Variabel digunakan untuk menyimpan dan merujuk nilai. Pada program ini, kita akan mempelajari cara mendeklarasikan variabel menggunakan kata kunci `var`, `let`, dan `const`.
+Variables are used to store and refer to values. In this program, we will learn how to declare variables using the `var`, `let`, and `const` keywords.
 
-## Tipe Data
+## Data Types
 
-JavaScript memiliki beberapa tipe data bawaan seperti `Number`, `String`, `Boolean`, `Array`, `Object`, dan lain-lain. Pada program ini, kita akan melihat contoh penggunaan tipe data tersebut.
+JavaScript has several built-in data types such as `Number`, `String`, `Boolean`, `Array`, `Object`, and more. In this program, we will explore examples of using these data types.
 
-## Operator
+## Operators
 
-Operator digunakan untuk melakukan operasi pada nilai, seperti matematika, perbandingan, dan logika. Program ini akan mengajarkan cara menggunakan operator-operator tersebut.
+Operators are used to perform operations on values, such as arithmetic, comparison, and logical operations. This program will demonstrate the usage of various operators.
 
-## Percabangan
+## Conditionals
 
-Percabangan digunakan untuk menjalankan blok kode tertentu berdasarkan kondisi yang diberikan. Program ini akan menjelaskan penggunaan percabangan dengan contoh-contoh sederhana.
+Conditionals are used to execute specific blocks of code based on given conditions. This program will explain the usage of conditionals with simple examples.
 
-## Perulangan
+## Loops
 
-Perulangan digunakan untuk mengulangi blok kode berulang kali. Program ini akan memberikan contoh penggunaan perulangan menggunakan `for`, `while`, dan `do-while` loop.
+Loops are used to repeatedly execute a block of code. This program will provide examples of using `for`, `while`, and `do-while` loops.
 
-## Fungsi
+## Functions
 
-Fungsi digunakan untuk mengelompokkan blok kode yang dapat dipanggil berulang kali. Pada program ini, kita akan mempelajari cara mendefinisikan dan memanggil fungsi dalam JavaScript.
+Functions are used to group a block of code that can be called repeatedly. In this program, we will learn how to define and call functions in JavaScript.
 
 ## Event Handling
 
-JavaScript juga digunakan untuk menangani interaksi pengguna pada halaman web, seperti klik tombol atau pengisian formulir. Program ini akan memberikan contoh penggunaan event handling dalam JavaScript.
+JavaScript is also used to handle user interactions on web pages, such as button clicks or form submissions. This program will demonstrate examples of event handling in JavaScript.
 
 ---
 
-Sekarang Anda dapat mulai menjalankan program JavaScript dasar ini dan mempelajari contoh-contoh yang ada. Selamat belajar!
+Now you can start running this basic JavaScript program and learn from the provided examples. Happy learning!
